@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://drive.google.com/uc?export=download&id=1YhVOYbWfwm9QWyjHRSnAYWSEHn0gqzdB") top center;
+  background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
 }
 
